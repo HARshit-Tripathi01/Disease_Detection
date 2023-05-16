@@ -113,7 +113,7 @@ npm run start
 ```
 <hr>
 Datasets credits:- https://www.kaggle.com/arjuntejaswi/plant-village <br>
-Contact Us:- shashankbhardwaj2030@gmai.com (Hope this repo found it usefull to you then please give a star to this repo).
+Contact Us:- harshittripathi30042002@gmail.com (Hope this repo found it usefull to you then please give a star to this repo).
 
 
 
